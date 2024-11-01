@@ -1,0 +1,49 @@
+
+.webweb_wp_notes_remover .app_table {
+	width: 30%;
+}
+
+.webweb_wp_notes_remover .app_hide {
+	display: none;
+}
+
+.webweb_wp_notes_remover .clear_both {
+	clear: both;
+}
+
+.webweb_wp_notes_remover .app_table td {
+	padding:10px;
+}
+
+.webweb_wp_notes_remover .webweb_wp_notes_remover_input {
+	min-width:220px;
+}
+
+.webweb_wp_notes_remover .form-table textarea {
+	width:550px;
+}
+
+.webweb_wp_notes_remover .success, .app_success {
+    color: green;
+}
+
+.webweb_wp_notes_remover .app_error, .webweb_wp_notes_remover .app_delete_button {
+    color: red;
+}
+
+.webweb_wp_notes_remover .main_content {
+	float: left;
+    margin: 0;
+    padding: 0;
+    width: 73%;
+    vertical-align: top;
+}
+
+.webweb_wp_notes_remover .zzz_app_admin_sidebar {
+	_float: right;
+    margin: 0;
+    padding: 0;
+    width: 20%;
+}
+
+
